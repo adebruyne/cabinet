@@ -1,24 +1,5 @@
-# README
+Evernot Look-a-like
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+App 1 
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+8 Beautiful Ruby on Rails Apps in 30 Days & TDD
