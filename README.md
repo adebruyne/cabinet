@@ -1,4 +1,4 @@
-Evernot Look-a-like
+Evernote Look-a-like
 
 App 1 
 
